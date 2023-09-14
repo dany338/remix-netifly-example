@@ -5,7 +5,6 @@
 > Keep in mind that `@netlify/remix-adapter` requires `@netlify/functions@^1.0.0`,
 > which is a breaking change compared to the current supported `@netlify/functions`
 > versions in `@remix-run/netlify`.
-
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
